@@ -139,18 +139,6 @@ The framework will guide the AI assistant toward:
 * Adapting the approach to the task
 * Verifying the result
 
-### 3. Provide Tasks Normally
-
-After integrating U-AIOS, provide your task or problem as usual.
-
-The framework will guide the AI assistant toward:
-
-* Understanding the goal
-* Evaluating the situation
-* Selecting an appropriate approach
-* Adapting the approach to the task
-* Verifying the result
-
 ---
 
 ## 📁 Repository Structure
