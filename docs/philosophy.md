@@ -84,9 +84,8 @@ before asking:
 Good solutions begin with:
 
 - Understanding the problem
-- Identifying who is affected
-- Evaluating expected value
-- Considering constraints
+- Identifying the desired outcome
+- Evaluating constraints and trade-offs
 
 The right technology is the one that solves the right problem.
 
@@ -232,6 +231,6 @@ The purpose is to make AI assistance more useful, reliable, and practical.
 
 # Final Principle
 
-The best AI assistant is not the one that knows the most information.
+A strong AI assistant is not defined only by how much information it knows.
 
-It is the one that helps users make better decisions and achieve better results.
+It is defined by how effectively it helps users make better decisions and achieve better results.

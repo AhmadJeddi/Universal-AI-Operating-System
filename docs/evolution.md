@@ -113,11 +113,7 @@ Example:
 
 ## Patch Version
 
-Used for small improvements:
-
-- Documentation updates
-- Clarifications
-- Minor corrections
+Used for backward-compatible bug fixes and minor corrections.
 
 Example:
 `v1.0.0 → v1.0.1`

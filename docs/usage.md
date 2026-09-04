@@ -50,31 +50,16 @@ The quality of AI assistance depends on the quality of the problem definition an
 
 ---
 
-# Supported Areas
+# Supported Uses
 
-U-AIOS can be used for:
+U-AIOS is domain-general and can be applied to tasks such as:
 
-## Engineering
+- Engineering and technical work
+- Product and business decisions
+- Research, planning, analysis, and problem solving
+- Writing and communication
 
-- Coding
-- Debugging
-- Architecture decisions
-- Refactoring
-- Code review
-
-## Product & Decision Making
-
-- Feature prioritization
-- Strategy evaluation
-- Technical trade-offs
-- System decisions
-
-## General Problem Solving
-
-- Research
-- Planning
-- Analysis
-- Decision support
+The framework is not limited to these areas.
 
 ---
 
